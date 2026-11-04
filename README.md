@@ -1,6 +1,6 @@
 # Free Nodes Radar · Free Proxy Nodes Tested Every 6 Hours
 
-> Last updated: 2026-11-04 02:53 UTC
+> Last updated: 2026-11-04 12:45 UTC
 
 Free V2Ray, VLESS, VMess, Shadowsocks, Trojan and Hysteria2 nodes collected from public sources, tested through Google every day, named by country and ranked by stability. Ready-made subscriptions for Clash, v2rayN, v2rayNG, Shadowrocket, Hiddify and sing-box.
 
@@ -20,72 +20,72 @@ Ranked by pass rate over the last 28 tests (counted from when each node first ap
 
 | # | Node | Protocol | Latency 🇩🇪 Germany | Latency 🇸🇬 Singapore | Speed | Stable |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇳🇱 Netherlands 001 | ss | 154 ms | 1,086 ms | 57.79 MB/s | 28/28 |
-| 2 | 🇳🇱 Netherlands 002 | ss | 164 ms | 679 ms | 67.26 MB/s | 28/28 |
-| 3 | 🇳🇱 Netherlands 003 | ss | 165 ms | 712 ms | 45.46 MB/s | 28/28 |
-| 4 | 🇮🇹 Italy 01 | ss | 168 ms | 862 ms | 35.25 MB/s | 28/28 |
-| 5 | 🇳🇱 Netherlands 004 | ss | 175 ms | 815 ms | 42.6 MB/s | 28/28 |
-| 6 | 🇳🇱 Netherlands 005 | ss | 178 ms | 986 ms | 77.62 MB/s | 28/28 |
-| 7 | 🇮🇹 Italy 02 | ss | 299 ms | 1,240 ms | 32.96 MB/s | 28/28 |
-| 8 | 🇬🇧 United Kingdom 01 | ss | 355 ms | 1,197 ms | 19.88 MB/s | 28/28 |
-| 9 | 🇬🇧 United Kingdom 02 | ss | 380 ms | 1,016 ms | 22.41 MB/s | 28/28 |
-| 10 | 🇬🇧 United Kingdom 03 | ss | 382 ms | 1,032 ms | 20.18 MB/s | 28/28 |
-| 11 | 🇩🇪 Germany 01 | ss | 390 ms | 1,052 ms | 45.43 MB/s | 28/28 |
-| 12 | 🇩🇪 Germany 02 | ss | 395 ms | 923 ms | 31.68 MB/s | 28/28 |
-| 13 | 🇩🇪 Germany 03 | ss | 397 ms | 899 ms | 34.26 MB/s | 28/28 |
-| 14 | 🇮🇹 Italy 03 | ss | 418 ms | 794 ms | 54.56 MB/s | 28/28 |
-| 15 | 🇮🇹 Italy 04 | ss | 427 ms | 1,201 ms | 32.42 MB/s | 28/28 |
-| 16 | 🇬🇧 United Kingdom 04 | ss | 446 ms | 1,099 ms | 26.45 MB/s | 28/28 |
-| 17 | 🇬🇧 United Kingdom 05 | ss | 470 ms | 1,204 ms | 45.24 MB/s | 28/28 |
-| 18 | 🇺🇸 United States 01 | ss | 473 ms | 1,290 ms | 12.43 MB/s | 28/28 |
-| 19 | 🇺🇸 United States 02 | ss | 499 ms | 868 ms | 9.18 MB/s | 28/28 |
-| 20 | 🇮🇹 Italy 05 | ss | 507 ms | — | 47.79 MB/s | 28/28 |
-| 21 | 🇦🇹 Austria 01 | ss | 511 ms | 1,200 ms | 45 MB/s | 28/28 |
-| 22 | 🇺🇸 United States 03 | ss | 530 ms | 1,272 ms | 10.04 MB/s | 28/28 |
-| 23 | 🇱🇹 Lithuania 01 | ss | 538 ms | 1,055 ms | 20.51 MB/s | 28/28 |
-| 24 | 🇺🇸 United States 04 | ss | 558 ms | 902 ms | 9.07 MB/s | 28/28 |
-| 25 | 🇺🇸 United States 05 | ss | 568 ms | 1,131 ms | — | 28/28 |
-| 26 | 🇨🇦 Canada 01 | ss | 590 ms | 1,283 ms | 9.5 MB/s | 28/28 |
-| 27 | 🇧🇬 Bulgaria 01 | ss | 595 ms | 1,100 ms | 12.1 MB/s | 28/28 |
-| 28 | 🇸🇬 Singapore 01 | ss | 710 ms | 251 ms | 6.99 MB/s | 28/28 |
-| 29 | 🇸🇬 Singapore 02 | ss | 721 ms | 252 ms | 6.16 MB/s | 28/28 |
-| 30 | 🇸🇬 Singapore 03 | ss | 728 ms | 362 ms | 6.18 MB/s | 28/28 |
+| 1 | 🇳🇱 Netherlands 001 | ss | 116 ms | 655 ms | 34.43 MB/s | 28/28 |
+| 2 | 🇳🇱 Netherlands 002 | ss | 126 ms | 908 ms | 39.78 MB/s | 28/28 |
+| 3 | 🇳🇱 Netherlands 003 | ss | 164 ms | 596 ms | 39.71 MB/s | 28/28 |
+| 4 | 🇳🇱 Netherlands 004 | ss | 165 ms | 872 ms | 37.7 MB/s | 28/28 |
+| 5 | 🇳🇱 Netherlands 005 | ss | 183 ms | 636 ms | 38.93 MB/s | 28/28 |
+| 6 | 🇬🇧 United Kingdom 01 | ss | 230 ms | 823 ms | 22.23 MB/s | 28/28 |
+| 7 | 🇬🇧 United Kingdom 02 | ss | 235 ms | 946 ms | 36.34 MB/s | 28/28 |
+| 8 | 🇦🇹 Austria 01 | ss | 271 ms | 1,461 ms | 55.68 MB/s | 28/28 |
+| 9 | 🇩🇪 Germany 01 | ss | 273 ms | 1,351 ms | 9.82 MB/s | 28/28 |
+| 10 | 🇬🇧 United Kingdom 03 | ss | 320 ms | 777 ms | 0.27 MB/s | 28/28 |
+| 11 | 🇱🇹 Lithuania 01 | ss | 324 ms | 1,285 ms | 19.05 MB/s | 28/28 |
+| 12 | 🇩🇪 Germany 02 | ss | 335 ms | 1,394 ms | 97.2 MB/s | 28/28 |
+| 13 | 🇩🇪 Germany 03 | ss | 365 ms | 1,652 ms | 57.41 MB/s | 28/28 |
+| 14 | 🇮🇹 Italy 01 | ss | 374 ms | 1,245 ms | 58.34 MB/s | 28/28 |
+| 15 | 🇺🇸 United States 001 | ss | 411 ms | 691 ms | 0.82 MB/s | 28/28 |
+| 16 | 🇩🇪 Germany 04 | ss | 420 ms | 659 ms | 1.47 MB/s | 28/28 |
+| 17 | 🇬🇧 United Kingdom 04 | ss | 426 ms | 799 ms | 58.15 MB/s | 28/28 |
+| 18 | 🇮🇹 Italy 02 | ss | 431 ms | 4,303 ms | 0.47 MB/s | 28/28 |
+| 19 | 🇺🇸 United States 002 | ss | 437 ms | 957 ms | 11.84 MB/s | 28/28 |
+| 20 | 🇮🇹 Italy 03 | ss | 443 ms | 1,520 ms | 5.53 MB/s | 28/28 |
+| 21 | 🇬🇧 United Kingdom 05 | ss | 488 ms | 1,047 ms | 17.14 MB/s | 28/28 |
+| 22 | 🇺🇸 United States 003 | ss | 502 ms | 849 ms | 12.17 MB/s | 28/28 |
+| 23 | 🇮🇹 Italy 04 | ss | 514 ms | 877 ms | 4.01 MB/s | 28/28 |
+| 24 | 🇧🇬 Bulgaria 01 | ss | 531 ms | 802 ms | 12.21 MB/s | 28/28 |
+| 25 | 🇸🇬 Singapore 01 | ss | 537 ms | 78 ms | 5.46 MB/s | 28/28 |
+| 26 | 🇸🇬 Singapore 02 | ss | 573 ms | 268 ms | 5.78 MB/s | 28/28 |
+| 27 | 🇺🇸 United States 004 | ss | 582 ms | 764 ms | 6.22 MB/s | 28/28 |
+| 28 | 🇸🇬 Singapore 03 | ss | 608 ms | 272 ms | 6.49 MB/s | 28/28 |
+| 29 | 🇺🇸 United States 005 | ss | 611 ms | 1,354 ms | 0.73 MB/s | 28/28 |
+| 30 | 🇸🇬 Singapore 04 | ss | 691 ms | 100 ms | 6.85 MB/s | 28/28 |
 
 ### Copy all nodes
 
 Copy the block below, then use "Import from clipboard" in v2rayN or v2rayNG. Shadowrocket detects the clipboard automatically.
 
 ```text
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20002
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20003
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20004
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20005
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2002
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2001
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@98.98.207.163:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2002
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2003
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2001
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.20.147:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2002
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2003
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My4yNzoxOTk5OQ==#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2003
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2004
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.46.199:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2004
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2005
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2001
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2002
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2005
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20001
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20002
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20003
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20004
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20005
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@98.98.207.163:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2001
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.18:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2002
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2001
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2003
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2001
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.181:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2003
 ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA@195.238.126.20:9045#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%2001
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2004
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2005
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2001
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.20.147:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2002
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2003
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2001
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20001
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@213.202.208.199:5000#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2004
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2004
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2002
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20002
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2003
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2005
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20003
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2004
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@213.183.63.60:9064#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2001
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.236:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2001
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.45:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2002
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.240:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2001
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.236:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2002
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20004
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2003
+ss://2022-blake3-aes-256-gcm:Q2YsIzc5YkchSFjsqUZWrQAFtsSpqf7XxYxkG4%2BJbsk%3D%3AzT1SecPttPY%2FXPW6NwjK5Wql%2B%2F6zbcGSDJK21Jk8uLo%3D@216.9.225.189:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20005
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2004
 ```
 
 ## Other languages
