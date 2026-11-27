@@ -1,6 +1,6 @@
 # Free Nodes Radar · Free Proxy Nodes Tested Every 6 Hours
 
-> Last updated: 2026-11-26 14:28 UTC
+> Last updated: 2026-11-27 01:08 UTC
 
 Free V2Ray, VLESS, VMess, Shadowsocks, Trojan and Hysteria2 nodes collected from public sources, tested through Google every day, named by country and ranked by stability. Ready-made subscriptions for Clash, v2rayN, v2rayNG, Shadowrocket, Hiddify and sing-box.
 
@@ -20,72 +20,72 @@ Ranked by pass rate over the last 28 tests (counted from when each node first ap
 
 | # | Node | Protocol | Latency 🇩🇪 Germany | Latency 🇸🇬 Singapore | Speed | Stable |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇳🇱 Netherlands 01 | ss | 74 ms | 632 ms | 49.21 MB/s | 28/28 |
-| 2 | 🇳🇱 Netherlands 02 | ss | 79 ms | 746 ms | 34.66 MB/s | 28/28 |
-| 3 | 🇳🇱 Netherlands 03 | ss | 81 ms | 645 ms | 25.71 MB/s | 28/28 |
-| 4 | 🇫🇷 France 01 | hysteria2 | 84 ms | 746 ms | 8.28 MB/s | 28/28 |
-| 5 | 🇳🇱 Netherlands 04 | ss | 88 ms | 596 ms | 43.39 MB/s | 28/28 |
-| 6 | 🇳🇱 Netherlands 05 | ss | 89 ms | 693 ms | 42.01 MB/s | 28/28 |
-| 7 | 🇮🇹 Italy 01 | ss | 103 ms | 820 ms | 7.6 MB/s | 28/28 |
-| 8 | 🇫🇷 France 02 | hysteria2 | 103 ms | 767 ms | 2.77 MB/s | 28/28 |
-| 9 | 🇮🇹 Italy 02 | ss | 105 ms | 830 ms | 35.47 MB/s | 28/28 |
-| 10 | 🇮🇹 Italy 03 | ss | 110 ms | 787 ms | 40.3 MB/s | 28/28 |
-| 11 | 🇩🇪 Germany 01 | ss | 110 ms | 1,278 ms | 55.91 MB/s | 28/28 |
-| 12 | 🇩🇪 Germany 02 | ss | 111 ms | 1,224 ms | 122.09 MB/s | 28/28 |
-| 13 | 🇫🇷 France 03 | ss | 112 ms | 819 ms | 46.42 MB/s | 28/28 |
-| 14 | 🇫🇷 France 04 | vmess | 112 ms | 1,237 ms | 56.4 MB/s | 28/28 |
-| 15 | 🇩🇪 Germany 03 | ss | 114 ms | 1,224 ms | 42.98 MB/s | 28/28 |
-| 16 | 🇮🇹 Italy 04 | ss | 130 ms | 3,799 ms | 47.55 MB/s | 28/28 |
-| 17 | 🇮🇹 Italy 05 | ss | 132 ms | 1,192 ms | 49.11 MB/s | 28/28 |
-| 18 | 🇨🇭 Switzerland 01 | ss | 142 ms | 1,017 ms | 34.19 MB/s | 28/28 |
-| 19 | 🇸🇪 Sweden 01 | ss | 143 ms | 1,154 ms | 25.52 MB/s | 28/28 |
-| 20 | 🇩🇪 Germany 04 | ss | 145 ms | 2,115 ms | 93.49 MB/s | 28/28 |
-| 21 | 🇫🇷 France 05 | hysteria2 | 147 ms | 735 ms | 5.27 MB/s | 28/28 |
-| 22 | 🇩🇪 Germany 05 | ss | 164 ms | 2,007 ms | 139.89 MB/s | 28/28 |
-| 23 | 🇨🇭 Switzerland 02 | hysteria2 | 172 ms | 898 ms | 4.99 MB/s | 28/28 |
-| 24 | 🇬🇧 United Kingdom 01 | ss | 190 ms | 1,121 ms | 42.98 MB/s | 28/28 |
-| 25 | 🇨🇭 Switzerland 03 | hysteria2 | 190 ms | 869 ms | 6.75 MB/s | 28/28 |
-| 26 | 🇪🇸 Spain 01 | ss | 200 ms | 994 ms | 35.21 MB/s | 28/28 |
-| 27 | 🇫🇮 Finland 01 | hysteria2 | 236 ms | — | 20.47 MB/s | 28/28 |
-| 28 | 🇨🇭 Switzerland 04 | trojan | 247 ms | 1,444 ms | 5.17 MB/s | 28/28 |
-| 29 | 🇨🇭 Switzerland 05 | trojan | 250 ms | 3,247 ms | 5.25 MB/s | 28/28 |
-| 30 | 🇸🇪 Sweden 02 | vmess | 259 ms | 1,481 ms | — | 28/28 |
+| 1 | 🇳🇱 Netherlands 01 | ss | 71 ms | 610 ms | 56.27 MB/s | 28/28 |
+| 2 | 🇳🇱 Netherlands 02 | trojan | 78 ms | 1,108 ms | 1.87 MB/s | 28/28 |
+| 3 | 🇳🇱 Netherlands 03 | hysteria2 | 83 ms | 619 ms | 20.97 MB/s | 28/28 |
+| 4 | 🇳🇱 Netherlands 04 | ss | 88 ms | 756 ms | 41.39 MB/s | 28/28 |
+| 5 | 🇳🇱 Netherlands 05 | hysteria2 | 97 ms | 633 ms | 17.67 MB/s | 28/28 |
+| 6 | 🇩🇪 Germany 01 | vmess | 106 ms | 840 ms | 60.95 MB/s | 28/28 |
+| 7 | 🇮🇹 Italy 01 | ss | 112 ms | 1,017 ms | 42.77 MB/s | 28/28 |
+| 8 | 🇫🇷 France 01 | ss | 127 ms | 893 ms | 29.81 MB/s | 28/28 |
+| 9 | 🇨🇭 Switzerland 01 | trojan | 139 ms | 1,033 ms | 36.81 MB/s | 28/28 |
+| 10 | 🇫🇷 France 02 | ss | 151 ms | 1,024 ms | 36.57 MB/s | 28/28 |
+| 11 | 🇫🇷 France 03 | vmess | 171 ms | 1,313 ms | 0.65 MB/s | 28/28 |
+| 12 | 🇨🇭 Switzerland 02 | trojan | 174 ms | 1,270 ms | 24.74 MB/s | 28/28 |
+| 13 | 🇨🇭 Switzerland 03 | hysteria2 | 174 ms | 913 ms | 5.64 MB/s | 28/28 |
+| 14 | 🇩🇪 Germany 02 | ss | 175 ms | 955 ms | 99.17 MB/s | 28/28 |
+| 15 | 🇫🇷 France 04 | hysteria2 | 176 ms | 529 ms | 22.32 MB/s | 28/28 |
+| 16 | 🇪🇸 Spain 01 | ss | 178 ms | 867 ms | 34.33 MB/s | 28/28 |
+| 17 | 🇨🇭 Switzerland 04 | hysteria2 | 180 ms | 771 ms | 5.19 MB/s | 28/28 |
+| 18 | 🇦🇹 Austria 01 | ss | 184 ms | 1,158 ms | 54.47 MB/s | 28/28 |
+| 19 | 🇫🇷 France 05 | hysteria2 | 189 ms | 587 ms | 29.07 MB/s | 28/28 |
+| 20 | 🇬🇧 United Kingdom 01 | ss | 191 ms | 844 ms | 16.61 MB/s | 28/28 |
+| 21 | 🇬🇧 United Kingdom 02 | vmess | 197 ms | 1,710 ms | 25.32 MB/s | 28/28 |
+| 22 | 🇬🇧 United Kingdom 03 | vmess | 199 ms | 1,044 ms | 39.57 MB/s | 28/28 |
+| 23 | 🇬🇧 United Kingdom 04 | vmess | 199 ms | 1,116 ms | 31.09 MB/s | 28/28 |
+| 24 | 🇨🇭 Switzerland 05 | trojan | 212 ms | 1,099 ms | 11.45 MB/s | 28/28 |
+| 25 | 🇮🇹 Italy 02 | ss | 224 ms | 1,072 ms | 48.15 MB/s | 28/28 |
+| 26 | 🇬🇧 United Kingdom 05 | ss | 227 ms | 544 ms | 46.96 MB/s | 28/28 |
+| 27 | 🇩🇪 Germany 03 | ss | 235 ms | 567 ms | 105.08 MB/s | 28/28 |
+| 28 | 🇸🇪 Sweden 01 | vmess | 244 ms | 1,679 ms | 31.36 MB/s | 28/28 |
+| 29 | 🇮🇹 Italy 03 | ss | 259 ms | 795 ms | 68.25 MB/s | 28/28 |
+| 30 | 🇩🇪 Germany 04 | ss | 266 ms | 878 ms | 58.91 MB/s | 28/28 |
 
 ### Copy all nodes
 
 Copy the block below, then use "Import from clipboard" in v2rayN or v2rayNG. Shadowrocket detects the clipboard automatically.
 
 ```text
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2002
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2003
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2004
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2005
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2001
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=t.me#%F0%9F%87%AB%F0%9F%87%B7%20France%2002
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2002
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999?#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2003
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2001
-ss://2022-blake3-chacha20-poly1305:8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y%3D@8.220.81.25:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2002
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.99.189.142:19999#%F0%9F%87%AB%F0%9F%87%B7%20France%2003
-vmess://eyJhZGQiOiI3OS4xMzcuOTkuMTgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjEyNzAiLCJwcyI6IkBWMnJheV9BbHBoYfCfjJ8gMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==vless#%F0%9F%87%AB%F0%9F%87%B7%20France%2004
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2003
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2004
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999?#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2005
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.166.88.189:19999#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2001
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2001
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.76.233:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2004
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2005
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2005
-hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2002
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@198.244.202.215:19999#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2001
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2001
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.44:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.indyourperfectremotetechjobfromthecomfortofhome.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2002
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2003
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2004
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?insecure=1&sni=promo.betust.net#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2005
+vmess://eyJhZGQiOiAiMTYyLjE5LjIwNC43MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwgImluc2VjdXJlIjogIjEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMTIzNCIsICJwcyI6ICLwn4ep8J+HqiBHZXJtYW55IDAxIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJzdXBlcnZwbi5zdXBlci5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2001
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.162.152.22:19999#%F0%9F%87%AB%F0%9F%87%B7%20France%2001
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2001
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.99.189.142:19999#%F0%9F%87%AB%F0%9F%87%B7%20France%2002
+vmess://eyJhZGQiOiAiMjAwMTpiYzg6MzJkNzoxYTk6OjciLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiM2E5NjZkMjAtN2I5ZC00OGNjLWJhMmMtOGQzODE2MWI2ZDNhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OS1uZXdwYWMvZmFucWlhbmciLCAicG9ydCI6ICIxODkwMSIsICJwcyI6ICLwn4er8J+HtyBGcmFuY2UgMDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?sni=cdn.yourultimateprofessionalcareerhub.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2002
 hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443?insecure=1&obfs=salamander&obfs-password=c13f29db6a638ad2b211b9ce2669ef27&sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2003
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.139.242:19999#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2001
-hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433/?insecure=1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2001
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?sni=resources.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2004
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.yourultimateprofessionalcareerhub.com#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2005
-vmess://eyJhZGQiOiAiMTM4LjE5OS41NS4yMzAiLCAiYWlkIjogIjAiLCAiYWxwbiI6IG51bGwsICJmcCI6IG51bGwsICJob3N0IjogIiIsICJpZCI6ICI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCAibmFtZSI6ICJTRSDwn4e48J+HqiB8IEBSYXlkaWthbHggfCA5MTNGRUYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDEyNzAsICJwcyI6ICLwn4e48J+HqiBTd2VkZW4gMDIiLCAic2N5IjogImF1dG8iLCAic25pIjogInhtZmhscHkuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6IG51bGwsICJ2IjogbnVsbH0=
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.20.147:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2002
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2004
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@62.93.179.97:19999#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2001
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=140.238.213.114#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2004
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2001
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&sni=13.36.234.11#%F0%9F%87%AB%F0%9F%87%B7%20France%2005
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.114.120.221:19999#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2001
+vmess://eyJhZGQiOiAiNTcuMTI5LjEzMi4yMjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLmNvbSIsICJpZCI6ICJhMjVjYmYxMS0yOTA4LTRhMWItYTNhOC05YTU3MTc3N2RjYTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJwb3J0IjogIjgwIiwgInBzIjogIvCfh6zwn4enIFVuaXRlZCBLaW5nZG9tIDAyIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrPCfh6cgVW5pdGVkIEtpbmdkb20gMDMiLCAiYWRkIjogIjE0OS43LjE2LjIyOCIsICJwb3J0IjogMTI3MCwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAidGxzIiwgImZwIjogImNocm9tZSIsICJzbmkiOiAieG1maGxweS5jb20ifQ==
+vmess://eyJhZGQiOiAiMTQ5LjcuMTYuMjI4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJuYW1lIjogIkdCIPCfh6zwn4enIHwgQFJheWRpa2FseCB8IDgzMUUwRiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAxMjcwLCAicHMiOiAi8J+HrPCfh6cgVW5pdGVkIEtpbmdkb20gMDQiLCAic2N5IjogImF1dG8iLCAic25pIjogInhtZmhscHkuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=learn.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2005
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2002
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@198.244.202.215:19999#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2005
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.76.233:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2003
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuPCfh6ogU3dlZGVuIDAxIiwgImFkZCI6ICIxMzguMTk5LjU1LjIzMCIsICJwb3J0IjogMTI3MCwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAidGxzIiwgImZwIjogImNocm9tZSIsICJzbmkiOiAieG1maGxweS5jb20ifQ==
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999?#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2003
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2004
 ```
 
 ## Other languages
